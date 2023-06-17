@@ -278,11 +278,23 @@ section {
         font-weight: 300;
     }
 
+    .about__main-heading {
+        margin-left: .5rem;
+    }
+
     .about__main-para {
         line-height: 1.7rem;
         font-size: 1rem;
         font-weight: 300;
         max-width: 60rem;
+        margin-left: .5rem;
+    }
+
+    .about__skills {
+        margin-left: .5rem;
+    }
+
+    .pro-btn {
         margin-left: .5rem;
     }
 
@@ -301,6 +313,8 @@ section {
     .card {
         width: 30rem;
     }
+
+
 }
 
 
